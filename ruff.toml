@@ -1,0 +1,18 @@
+target-version = "py39"
+line-length = 88
+
+select = [
+    "E",   # pycodestyle
+    "F",   # Pyflakes
+    "W",   # pycodestyle
+    "C90", # McCabe
+    "B",   # flake8-bugbear
+    "I",   # isort
+    "N",   # pep8-naming
+    "UP",  # pyupgrade
+    "S",   # bandit
+]
+
+[mccabe]
+# default is 10 but lowering for illustrative purposes
+max-complexity = 5
