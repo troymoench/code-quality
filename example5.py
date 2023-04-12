@@ -4,7 +4,7 @@ def myFunction( first_name, last_name, email, phone, fax, long_argument_with_def
   print(f"My name is {first_name} {last_name}")
 
 
-my_list = ["apple","banana","orange","grape","blueberry","strawberry","watermelon","canteloupe"]
+my_list = ["apple","banana","orange","grape","blueberry","strawberry","watermelon","cantaloupe"]
 
 var = 1+2    
 if var<3:

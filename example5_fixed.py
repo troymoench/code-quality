@@ -15,7 +15,7 @@ my_list = [
     "blueberry",
     "strawberry",
     "watermelon",
-    "canteloupe",
+    "cantaloupe",
 ]
 
 var = 1 + 2
